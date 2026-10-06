@@ -22,10 +22,10 @@ ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
 START_IMAGE = "https://i.postimg.cc/MKWZn3Lv/IMG-20260521-163611-172.jpg"
 PREMIUM_IMAGE = "https://i.postimg.cc/x89kTfHG/IMG-20260521-164434-789.jpg"
 
-QR_99 = "https://i.postimg.cc/C5tMMsbG/Screenshot-20260521-231011.png"
-QR_149 = "https://i.postimg.cc/DyXndsqs/Screenshot-20260521-231036.png"
-QR_249 = "https://i.postimg.cc/2SdYgD9Q/Screenshot-20260521-231058.png"
-QR_499 = "https://i.postimg.cc/MTH8cj6m/Screenshot-20260521-231113.png"
+QR_99 = "https://i.postimg.cc/qvWDb4CW/IMG-20261007-013133-731.jpg"
+QR_149 = "https://i.postimg.cc/rmfSHNPL/IMG-20261007-013340-805.jpg"
+QR_249 = "https://i.postimg.cc/zfjWLk5x/IMG-20261007-013503-174.jpg"
+QR_499 = "https://i.postimg.cc/d137hP4b/IMG-20261007-013542-616.jpg"
 
 # Admin contact link
 ADMIN_USERNAME = "https://t.me/dealer_x"
