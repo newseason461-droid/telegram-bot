@@ -99,10 +99,10 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # ==================================================
 async def premium_menu(query):
     keyboard = [
-        [InlineKeyboardButton("💎 𝐏𝐋𝐀𝐍 𝟏 — ₹99", callback_data="p1")],
-        [InlineKeyboardButton("🔥 𝐏𝐋𝐀𝐍 𝟐 — ₹149", callback_data="p2")],
-        [InlineKeyboardButton("📦 𝐏𝐋𝐀𝐍 𝟑 — ₹249", callback_data="p3")],
-        [InlineKeyboardButton("👑 𝐏𝐋𝐀𝐍 𝟒 — ₹499", callback_data="p4")],
+        [InlineKeyboardButton("💎 𝐌𝐌𝐒 𝐕𝐈𝐃𝐄𝐎 — ₹99", callback_data="p1")],
+        [InlineKeyboardButton("🔥 𝐂𝐏 𝐕𝐢𝐝𝐞𝐨 — ₹149", callback_data="p2")],
+        [InlineKeyboardButton("📦 𝐀𝐥𝐥 𝐈𝐧 𝐎𝐧𝐞 — ₹249", callback_data="p3")],
+        [InlineKeyboardButton("👑 𝐕𝐈𝐏 𝐀𝐥𝐥 ( 𝟏𝟎𝟎+ 𝐆𝐫𝐨𝐮𝐩) — ₹499", callback_data="p4")],
         [InlineKeyboardButton("⬅️ 𝐁𝐀𝐂𝐊", callback_data="home")],
     ]
 
